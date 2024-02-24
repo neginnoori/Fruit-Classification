@@ -13,3 +13,10 @@ In this project, we leverage the VGG16 architecture, a widely-used CNN architect
 The code provided in this repository implements the CNN model with the VGG16 architecture using the PyTorch deep learning framework. It encompasses data loaders to load and preprocess fruit images, a training loop that trains the model on the dataset, and an evaluation loop to assess the model's performance on a separate validation set. Additionally, the code incorporates early stopping to mitigate overfitting risks and includes functions to monitor and visualize the training progress.
 
 By utilizing this repository, you can explore the potential of CNNs and the VGG16 architecture for fruit recognition tasks, fine-tune hyperparameters, and adapt the code to your own fruit image dataset. The trained model can find applications in various domains such as agriculture, food quality assessment, and automated fruit sorting, enabling efficient classification of fruits as unripe, ripe, or rotten based on their visual characteristics.
+
+# Results
+
+|               | Epochs | First Header  | Second Header |
+| ------------- | ------------- |
+| rotten  | Content Cell  |
+| ripe  | Content Cell  |
