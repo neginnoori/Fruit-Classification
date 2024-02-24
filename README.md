@@ -16,7 +16,7 @@ By utilizing this repository, you can explore the potential of CNNs and the VGG1
 
 # Results
 
-| Left-aligned | Center-aligned | Right-aligned |
-| :---         |     :---:      |          ---: |
-| git status   | git status     | git status    |
-| git diff     | git diff       | git diff      |
+| Left-aligned | Center-aligned | Right-aligned | Left-aligned | Center-aligned | Right-aligned |
+|     :---:    |     :---:      |     :---:     |     :---:    |     :---:      |     :---:     |
+| git status   | git status     | git status    | git status   | git status     | git status    |
+| git diff     | git diff       | git diff      | git diff     | git diff       | git diff      |
