@@ -16,7 +16,7 @@ By utilizing this repository, you can explore the potential of CNNs and the VGG1
 
 # Results
 
-|               | Epochs | First Header  | Second Header |
-| ------------- | ------------- |
-| rotten  | Content Cell  |
-| ripe  | Content Cell  |
+| Left-aligned | Center-aligned | Right-aligned |
+| :---         |     :---:      |          ---: |
+| git status   | git status     | git status    |
+| git diff     | git diff       | git diff      |
